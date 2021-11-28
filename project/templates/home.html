@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %}home.html{% endblock %}
+
+{% block extra-style %}
+<style type="text/css">
+.home-image{
+	background-image: url("{% static 'img/trade.jpg' %}");
+  position: fixed; 
+  top: 0; 
+  left: 60px; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+  background-repeat: no-repeat;
+}
+</style>
+{% endblock %}
+
+{% block content %}
+	<div class="home-image">
+	</div>
+
+	<hr style="margin: 10px 0;">
+
+	<div class="row">
+		<div class="col-sm-6">
+			<h3>Trading system</h3>
+			<p>You can post what you want to buy or sell on this website. You can look around other people's posts or comment on them to express your willingness to trade. Keep your favorite items on your wish list!</p>
+		</div>
+	</div>
+{% endblock content %}
