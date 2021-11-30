@@ -18,6 +18,8 @@ from django.urls import path,include
 from mysite.views import HomeView
 from mysite.views import UserCreateView, UserCreateDoneTV
 
+# Below shows how URLs in mainpage are routed to views
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('list/', include('list.urls')),

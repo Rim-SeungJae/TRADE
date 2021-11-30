@@ -18,7 +18,10 @@ from django.urls import path,re_path
 
 app_name='list'
 
+# Below shows how URLs related to postes are routed to views
+
 urlpatterns = [
+
     path('',views.PostLV.as_view(),name='index'),
 
     path('post/',views.PostLV.as_view(),name='post_list'),

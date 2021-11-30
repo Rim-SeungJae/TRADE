@@ -3,7 +3,8 @@ from django.urls import reverse
 from django.contrib.auth.models import User
 from django.utils.text import slugify
 
-# Create your models here.
+# Create models here.
+# This describes how our saved data looks like
 
 class Post(models.Model):
     title = models.CharField(verbose_name='TITLE',max_length=50)

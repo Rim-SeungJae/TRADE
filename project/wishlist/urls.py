@@ -17,10 +17,12 @@ from django.urls import path
 #from wishlist.views import WishlistLV,WishlistDV
 from wishlist import views
 
+# Below shows how URLs in wishlist are routed to views
+
 app_name='wishlist'
 urlpatterns = [
     path('',views.WishlistLV.as_view(),name='index'),
-    
+
     path('<int:pk>/',views.WishlistDV.as_view(),name='detail'),
 
     path('add/',views.WishlistCreateView.as_view(),name="add",),
