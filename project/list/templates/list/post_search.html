@@ -1,6 +1,12 @@
 {% extends "base.html" %}
 
+{% load static %}
+
 {% block title %}post_search.html{% endblock %}
+
+{% block extra-style %}
+	<script src="{% static 'js/post_search.js' %}"></script>
+{% endblock %}
 
 {% block content %}
 <h1>Product Search</h1>
@@ -8,7 +14,7 @@
 
 <form action="." method="post"> {% csrf_token %}
 	{{ form.as_table }}
-	<input type="submit" value="Submit" class="btn btn-dark btn-sm">
+	<input type="submit" value="Submit" class="btn btn-dark btn-sm" id="submit">
 </form>
 
 <br/><br/>

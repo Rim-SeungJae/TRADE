@@ -1,3 +1,4 @@
+// fadein home image
 $(document).ready(function(){
-  $(".home-image").fadeIn(4000)
+  $(".home-image").fadeIn(3000)
 });
