@@ -3,6 +3,7 @@
   position: fixed;
   top: 0;
   left: 60px;
+  opacity: 70%;
 
   /* Preserve aspet ratio */
   min-width: 100%;
