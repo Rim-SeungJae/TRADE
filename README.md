@@ -1,5 +1,7 @@
 # skku_web_2021
 This page is a team project for the 2021 SKKU's Web Programming Lab subject.
+## Tech stack
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo-Django&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo-HTML5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo-CSS3&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo-JavaScript&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo-Firebase&logoColor=white"/>
 # Overview
 The web page is for posting things to trade with others. Fist, people can sign in and register to the web site. They can post articles about what they want to buy or sell. Posted articles can be shown to all users even though the user does not sign in. However, for posting, modifying and deleting articles, people should log in. They can modify and delete the articles they wrote. They can save wish list to wish list by saving url address of the things they like. Wish list can be also modified and deleted as posts. People can also search for the items.
 # Main page
