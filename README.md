@@ -1,5 +1,5 @@
-# skku_web_2021
-This page is a team project for the 2021 SKKU's Web Programming Lab subject.
+# TRADE
+This repository is about website 'TRADE' which is a team project for the 2021 SKKU's Web Programming Lab.
 ## Tech stack
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo-Django&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo-HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo-CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo-JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo-Firebase&logoColor=white"/>
 # Overview
