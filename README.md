@@ -5,22 +5,23 @@ This repository is about website 'TRADE' which is a team project for the 2021 SK
 # Overview
 The web page is for posting things to trade with others. Fist, people can sign in and register to the web site. They can post articles about what they want to buy or sell. Posted articles can be shown to all users even though the user does not sign in. However, for posting, modifying and deleting articles, people should log in. They can modify and delete the articles they wrote. They can save wish list to wish list by saving url address of the things they like. Wish list can be also modified and deleted as posts. People can also search for the items.
 # Main page
-![web1](https://github.com/dipreez/skku_web_2021/assets/50349104/d1475cf1-c5ab-4a44-a6f7-8cf88f0552d2)
+![1](https://github.com/dipreez/TRADE/assets/50349104/07bfd9d5-a1c6-4b43-b96c-0ff13877c2af)
 This is the main page of the website. Access various functions using the navigation bar at the top.
 # Sign up/Sign in
-![web2](https://github.com/dipreez/skku_web_2021/assets/50349104/0c425010-e0ad-45e9-ae83-f0ac99f1c3f4)
-![web3](https://github.com/dipreez/skku_web_2021/assets/50349104/91fc4b4d-7380-425a-9a20-98c875b8fd3d)
+![2](https://github.com/dipreez/TRADE/assets/50349104/01bc553d-568f-427b-a748-eab66f998a95)
+![3](https://github.com/dipreez/TRADE/assets/50349104/f494ae6e-f668-4616-8244-611556bff503)
 This is the Sign up/Sign in page of the website. This page allows users to receive authorization as a user of this website.
 # Creating/Viewing/Editing/Deleting post
-![web4](https://github.com/dipreez/skku_web_2021/assets/50349104/1974ba1c-6ae2-427b-9558-9369887ad64e)
-![web5](https://github.com/dipreez/skku_web_2021/assets/50349104/e104e1ba-844b-42c1-9dd1-76d535e1f6f1)
-![web6](https://github.com/dipreez/skku_web_2021/assets/50349104/37485873-5f31-4191-bf56-14703e7ac42f)
-![web7](https://github.com/dipreez/skku_web_2021/assets/50349104/bb1c3a05-4dd5-460d-9843-a0594274fee3)
+![4](https://github.com/dipreez/TRADE/assets/50349104/dd1950ed-7b5c-4ba8-8796-0e04b7fedbdf)
+![5](https://github.com/dipreez/TRADE/assets/50349104/6796ead8-f616-4a26-a1de-0a6ebfdb1d02)
+![6](https://github.com/dipreez/TRADE/assets/50349104/a3057b1a-b9c3-49f4-9e59-5f32c9801d1f)
+![7](https://github.com/dipreez/TRADE/assets/50349104/a2d25c9e-8f74-46f6-8ee7-7352d958eb37)
 These pages allow users to create, edit, delete, and view other users' posts on websites.
 # Wish list
-![web8](https://github.com/dipreez/skku_web_2021/assets/50349104/107e84a5-7f0d-47ad-aa1a-a4d6bb16ccee)
-![web9](https://github.com/dipreez/skku_web_2021/assets/50349104/9580c80b-03c7-4245-8b09-dae9d0250666)
+![8](https://github.com/dipreez/TRADE/assets/50349104/1589d299-4084-41b0-91cd-69bd44a8fb00)
+![9](https://github.com/dipreez/TRADE/assets/50349104/eb5ac57e-0bd0-4b3e-9b70-ec74e40aa9e9)
+![10](https://github.com/dipreez/TRADE/assets/50349104/19ca366e-df4c-43e3-9c2b-5328c5d7595c)
 Users can add posts containing their favorite products to the wish list for easier access.
 # Search
-![web10](https://github.com/dipreez/skku_web_2021/assets/50349104/3396c505-2492-42b2-b5f6-867b1a7dc7bb)
+![11](https://github.com/dipreez/TRADE/assets/50349104/367f1504-c67d-4637-b206-f027dd4c896b)
 Users can use the website's search function to find the product they want more easily.
